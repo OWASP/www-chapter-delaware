@@ -63,7 +63,7 @@ The short link is <http://bit.ly/owaspDE>.
 
 If the meeting advertises <u>food</u> then be sure to **RSVP for
 meetings** at the Meetup page so we can plan enough
-[food](food "wikilink").
+[food](food ).
 If you don't RSVP you might go hungry. You've been warned.
 
 
@@ -106,20 +106,20 @@ under the Files menu of our Meetup page.
 archive](http://www.meetup.com/OWASP-Delaware-Chapter/files/)
 
 Meeting slides from March 2015. Year of the Goat...WebGoat
-[Media:OWASP_Delaware_2015-03-04.pdf](Media:OWASP_Delaware_2015-03-04.pdf "wikilink")
+[/www-pdf-archive/OWASP_Delaware_2015-03-04.pdf](/www-pdf-archive/OWASP_Delaware_2015-03-04.pdf )
 
 Meeting slides from February 2015.
-[Media:OWASP_Delaware_2015-02-03.pdf](Media:OWASP_Delaware_2015-02-03.pdf "wikilink")
+[/www-pdf-archive/OWASP_Delaware_2015-02-03.pdf](/www-pdf-archive/OWASP_Delaware_2015-02-03.pdf )
 
 Meeting slides from January 2015. Hands-on intro to Web Security Dojo.
-[Media:Slides-WebSecurityDojo.pdf](Media:Slides-WebSecurityDojo.pdf "wikilink")
+[/www-pdf-archive/Slides-WebSecurityDojo.pdf](/www-pdf-archive/Slides-WebSecurityDojo.pdf )
 
 Meeting slides from December 2014. [Media:OWASP Delaware
-2015-12-18.pdf](Media:OWASP_Delaware_2015-12-18.pdf "wikilink")
+2015-12-18.pdf](/www-pdf-archive/OWASP_Delaware_2015-12-18.pdf )
 
 
 Intro to OWASP WTE project [Media:Intro to OWASP
-WTE.pdf](Media:Intro_to_OWASP_WTE.pdf "wikilink")
+WTE.pdf](/www-pdf-archive/Intro_to_OWASP_WTE.pdf )
 Presented at the December 2014 meeting by David Rhoades of Maven
 Security.
 
@@ -127,7 +127,7 @@ Security.
 
 Building Robust Application Security Model For Free
 [Media:Building Robust Application Security Model For
-Free.pdf](Media:Building_Robust_Application_Security_Model_For_Free.pdf "wikilink")
+Free.pdf](/www-pdf-archive/Building_Robust_Application_Security_Model_For_Free.pdf )
 Presented June 19, 2014 & July 10, 2014.
 Presented by Pradeep Chhabra - CISSP, CISM, CISA, CRISC Threat Modeling
 Lead | ITRSM-Information Security Services @ Chase
@@ -135,7 +135,7 @@ Lead | ITRSM-Information Security Services @ Chase
 Delaware chapter intro slides
 
 [Media:OWASP Delaware
-2014-06-19.pdf](Media:OWASP_Delaware_2014-06-19.pdf "wikilink")
+2014-06-19.pdf](/www-pdf-archive/OWASP_Delaware_2014-06-19.pdf )
 
 Basic intro to chapter and meeting agenda and things the chapter needs
 moving forward
@@ -146,16 +146,16 @@ Presented June 19, 2014
 
 OWASP Foundation ([Overview
 Slides](https://docs.google.com/a/owasp.org/presentation/d/1ZgY25F0F7QgScMlB1X7LAa70LtyJql8XqcYdR4suPUo/edit#slide=id.p))
-is a professional association of [global members](Membership "wikilink")
+is a professional association of [global members](Membership )
 and is and open to anyone interested in learning more about software
 security. Local chapters are run independently and guided by the
-[Chapter_Leader_Handbook](Chapter_Leader_Handbook "wikilink"). As a
-[501(c)(3)](About_OWASP "wikilink") non-profit professional association
+[Chapter_Leader_Handbook](Chapter_Leader_Handbook ). As a
+[501(c)(3)](About_OWASP ) non-profit professional association
 your support and sponsorship of any meeting venue and/or refreshments is
 tax-deductible. Financial contributions should only be made online using
 the authorized online chapter donation button. To be a <b>SPEAKER</b> at
 ANY OWASP Chapter in the world simply review the [speaker
-agreement](Speaker_Agreement "wikilink") and then contact the local
+agreement](Speaker_Agreement ) and then contact the local
 chapter leader with details of what OWASP PROJECT, independent research
 or related software security topic you would like to present on.
 
@@ -165,10 +165,10 @@ or related software security topic you would like to present on.
 chapter or become a local chapter supporter.
 
 Or consider the value of [Individual, Corporate, or Academic Supporter
-membership](Membership "wikilink"). Ready to become a member?
+membership](Membership ). Ready to become a member?
 ![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
 "Join_Now_BlueIcon.JPG")
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:United States](Category:United_States "wikilink")
-[Category:Delaware](Category:Delaware "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:United States](Category:United_States )
+[Category:Delaware](Category:Delaware )

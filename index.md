@@ -8,7 +8,7 @@ region: North America
 
 ---
 Welcome to the Delaware chapter homepage. 
-Please follow our chapter on [Meetup.com](https://bit.ly/owaspDE) and [Twitter](https://twitter.com/owaspde).
+Please follow our chapter on <a href="https://bit.ly/owaspDE" target="_blank" rel="noopener noreferrer">Meetup.com</a> and <a href="https://twitter.com/owaspde" target="_blank" rel="noopener noreferrer">Twitter</a>.
 
 Meetup is the primary source for meeting information and signups. **Please RSVP to meetings there**, but mark yourself as not coming if you change your mind.  That helps us plan for meeting logistics. 
 

@@ -26,17 +26,17 @@ The following are the list of organizations who have generously supported our ch
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-<a href="https://www.wilmu.edu/" target=_blank rel="noopener noreferrer"><img src="assets/images/WilmU-logo.jpg" alt="Wilmington University logo"/></a>
+<a href="https://www.wilmu.edu/" target="_blank" rel="noopener noreferrer"><img src="assets/images/WilmU-logo.jpg" alt="Wilmington University logo"/></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://www.dtcc.edu/" target=_blank rel="noopener noreferrer"><img src="assets/images/dtcc-logo.png" alt="Delaware Technical Community College logo" width="120"/></a>
+<a href="https://www.dtcc.edu/" target="_blank" rel="noopener noreferrer"><img src="assets/images/dtcc-logo.png" alt="Delaware Technical Community College logo" width="120"/></a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://www.udel.edu/" target=_blank rel="noopener noreferrer"><img src="assets/images/UD-logo.jpg" alt="University of Delaware logo"/></a>
+<a href="https://www.udel.edu/" target="_blank" rel="noopener noreferrer"><img src="assets/images/UD-logo.jpg" alt="University of Delaware logo"/></a>
 </td>
 </tr>
 </table>

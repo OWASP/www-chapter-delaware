@@ -2,53 +2,41 @@
 
 layout: col-sidebar
 title: OWASP Delaware
-tags: example-tag
-level: 0
+tags: delaware
 
-region: United States
-
-auto-migrated: 1
+region: North America
 
 ---
+Welcome to the Delaware chapter homepage. 
+Please follow our chapter on [Meetup.com](https://bit.ly/owaspDE) and [Twitter](https://twitter.com/owaspde).
 
+Meetup is the primary source for meeting information and signups. **Please RSVP to meetings there**, but mark yourself as not coming if you change your mind.  That helps us plan for meeting logistics. 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+> During hands-on labs there are only so many open seats, so an accurate head count is appreciated.
 
-{front matter for this file}
+# Speakers & Sponsors Wanted
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Please contact [David Rhoades](mailto:david.rhoades@owasp.org) if you would like to present at one of our chapter meetings, or if you have some space to donate for a meeting.
+Northern Delaware is ideal, but we are flexible - especially if you have people in your area willing to attend.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+# Meeting Sponsors
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The following are the list of organizations who have generously supported our chapter with meeting space:
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+<a href="https://www.wilmu.edu/" target=_blank rel="noopener noreferrer"><img src="assets/images/WilmU-logo.jpg" alt="Wilmington University logo"/></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.dtcc.edu/" target=_blank rel="noopener noreferrer"><img src="assets/images/dtcc-logo.png" alt="Delaware Technical Community College logo" width="120"/></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.udel.edu/" target=_blank rel="noopener noreferrer"><img src="assets/images/UD-logo.jpg" alt="University of Delaware logo"/></a>
+</td>
+</tr>
+</table>

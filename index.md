@@ -26,7 +26,7 @@ The following are the list of organizations who have generously supported our ch
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-<a href="https://www.wilmu.edu/" target="_blank" rel="noopener noreferrer"><img src="assets/images/WilmU-logo.jpg" alt="Wilmington University logo" height="90"/></a>
+<a href="https://www.wilmu.edu/" target="_blank" rel="noopener noreferrer"><img src="assets/images/WilmU-logo.png" alt="Wilmington University logo" height="90"/></a>
 </td>
 <td>
 <a href="https://www.dtcc.edu/" target="_blank" rel="noopener noreferrer"><img src="assets/images/dtcc-logo.png" alt="Delaware Technical Community College logo" height="90"/></a>

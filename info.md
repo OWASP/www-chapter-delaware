@@ -1,5 +1,5 @@
 ### Delaware Chapter Social Links
-* [Meetup.com](https://www.meetup.com/OWASP-Delaware-Chapter/) information about past and upcoming meetings is found there.
+* 
 * [Twitter](https://twitter.com/owaspde)
 
 ### OWASP Information

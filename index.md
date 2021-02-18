@@ -14,12 +14,12 @@ Meetup is the primary source for meeting information and signups. **Please RSVP 
 
 > During hands-on labs there are only so many open seats, so an accurate head count is appreciated.
 
-# Speakers & Sponsors Wanted
+# Speakers & Supporters Wanted
 
 Please contact [David Rhoades](mailto:david.rhoades@owasp.org) if you would like to present at one of our chapter meetings, or if you have some space to donate for a meeting.
 Northern Delaware is ideal, but we are flexible - especially if you have people in your area willing to attend.
 
-# Meeting Sponsors
+# Meeting Supporters
 
 The following are the list of organizations who have generously supported our chapter with meeting space:
 

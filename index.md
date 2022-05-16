@@ -45,6 +45,10 @@ The following are the list of organizations who have generously supported our ch
 
 {% include chapter_events.html group=page.meetup-group %}
 
+Tuesday, May 24, 2022 - 6 PM ~ 8 PM at Route 9 Library & Innovation Center in New Castle, Delaware
+"Secure Code Reviews": https://www.meetup.com/OWASP-Delaware-Chapter/events/285535901
+Join our chapter's Discord server for live broadcast: https://discord.gg/EHUznhj 
+
 OWASP Delaware Chapter meetings are posted on our MeetUp Page:
 Please visit <a href="https://www.meetup.com/OWASP-Delaware-Chapter/" target="_blank" rel="noopener noreferrer">https://www.meetup.com/OWASP-Delaware-Chapter/</a> to sign up for event announcements and to RSVP for an event.
 

@@ -6,6 +6,7 @@ tags: delaware
 region: North America
 meetup-group: OWASP-Delaware-Chapter
 postal-code: 19720
+country:  USA
 
 ---
 Welcome to the Delaware chapter homepage. 

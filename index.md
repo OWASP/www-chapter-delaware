@@ -26,12 +26,12 @@ When donating space for our meetings Northern Delaware is ideal, but we are flex
 
 # Chapter Supporters
 
-The following are the list of organizations who have generously supported our chapter with meeting space:
+The following are the list of organizations who have generously supported our chapter with volunteers and meeting space:
 
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-<a href="https://www.wilmu.edu/" target="_blank" rel="noopener noreferrer"><img src="assets/images/WilmU-logo.png" alt="Wilmington University logo" height="90"/></a>
+<a href="https://www.palindrometech.com/" target="_blank" rel="noopener noreferrer"><img src="assets/images/PalindromeTech_logoFlat_horz_white letters-01.webp" alt="Palindrome Technologies logo" height="90"/></a>
 </td>
 <td>
 <a href="https://www.dtcc.edu/" target="_blank" rel="noopener noreferrer"><img src="assets/images/dtcc-logo.png" alt="Delaware Technical Community College logo" height="90"/></a>

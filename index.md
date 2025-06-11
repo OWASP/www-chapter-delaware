@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Delaware
-tags: delaware
+tags: princeton
 region: North America
 meetup-group: OWASP-Delaware-Chapter
 postal-code: 19720

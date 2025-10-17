@@ -1,0 +1,27 @@
+leaders:
+  - name: David Rhoades
+    email: david.rhoades@owasp.org
+    github: mavensecurity
+  - name: Gionne Cannister
+    email: gionne.cannister@owasp.org
+  - name: Eric Truitte
+    email: eric.truitte@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Delaware
+  city: Newark
+  postal_code: '19720'
+  latitude: 39.6828358
+  longitude: -75.7515682
+meetup_group: OWASP-Delaware-Chapter
+name: OWASP Delaware
+repositories:
+  - name: www-chapter-delaware
+    url: https://github.com/OWASP/www-chapter-delaware
+    description: OWASP Foundation Web Repository
+tags:
+  - delaware
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-delaware

@@ -12,14 +12,16 @@ country:  USA
 Welcome to the Delaware chapter homepage. 
 Please follow our chapter here at OWASP.org.
 
-NEW: The Meetup.com group is gone, for us as well as most other OWASP chapters because...reasons.
-¯\_(ツ)_/¯
+**NEW for 23-Jan-2026: The Meetup.com group is gone!** <br>
+For us as well as most other OWASP chapters because...reasons.
+<br>
+¯\\_(ツ)_/¯
 
-The best way to stay in the loop on upcoming meetings is to <a href="https://discord.gg/EHUznhj" target="_blank" rel="noopener">join our chapter Discord server.</a>
+<mark>The best way to stay in the loop on upcoming meetings is to <a href="https://discord.gg/EHUznhj" target="_blank" rel="noopener">join our chapter Discord server.</a></mark>
 
 Until we find a new method of posting meetings and geting RSVP counts, we will post meetings here on this page and on Discord.
 
-Upcoming meetings are shown below.  
+Upcoming meetings will be posted further down on this page.  
 
 # Speakers & Supporters Wanted
 
@@ -55,5 +57,5 @@ Lost to the sands of time due to the Meetup.com account being closed out by OWAS
 
 # Stay in the loop
 
-<a href="https://discord.gg/EHUznhj" target="_blank" rel="noopener">Join our chapter Discord server for live broadcast.</a>
+<a href="https://discord.gg/EHUznhj" target="_blank" rel="noopener">Join our chapter Discord server</a> for the lastest meeting announcements and live meeting broadcasts.
 

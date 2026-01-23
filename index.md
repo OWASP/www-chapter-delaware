@@ -10,19 +10,22 @@ country:  USA
 
 ---
 Welcome to the Delaware chapter homepage. 
-Please follow our chapter on <a href="https://bit.ly/owaspDE" target="_blank" rel="noopener noreferrer">Meetup.com</a> and <a href="https://twitter.com/owaspde" target="_blank" rel="noopener noreferrer">Twitter</a>.
+Please follow our chapter here at OWASP.org.
 
-Upcoming meetings are shown below.  However, Meetup is the primary source for meeting information and signups. **Please RSVP to meetings there**, but mark yourself as not coming if you change your mind.  That helps us plan for meeting logistics. 
+NEW: The Meetup.com group is gone, for us as well as most other OWASP chapters because...reasons.
+¯\_(ツ)_/¯
 
-> During hands-on labs (physical or virtual) there are only so many open seats, so an accurate head count is appreciated.
+The best way to stay in the loop on upcoming meetings is to <a href="https://discord.gg/EHUznhj" target="_blank" rel="noopener">join our chapter Discord server.</a>
+
+Until we find a new method of posting meetings and geting RSVP counts, we will post meetings here on this page and on Discord.
+
+Upcoming meetings are shown below.  
 
 # Speakers & Supporters Wanted
 
 Please contact [David Rhoades](mailto:david.rhoades@owasp.org) if you would like to present at one of our chapter meetings, or if you have some virtual resources to donate (e.g., CTF ranges, online training, etc.).
 
-<!-- note to add when physical meetings resume:
 When donating space for our meetings Northern Delaware is ideal, but we are flexible - especially if you have people in your area willing to attend.
--->
 
 # Chapter Supporters
 
@@ -44,17 +47,13 @@ The following are the list of organizations who have generously supported our ch
 
 # Next Meeting/Event(s)
 
-{% include chapter_events.html group=page.meetup-group %}
-
-<br>
+Soon...probably Feb 2026.
 
 # Prior Events
-Check out our <a href="https://www.meetup.com/owasp-delaware-chapter/events/?type=past" target="_blank" rel="noopener">prior events</a> at our Meetup page.
+
+Lost to the sands of time due to the Meetup.com account being closed out by OWASP global leadership.
 
 # Stay in the loop
 
 <a href="https://discord.gg/EHUznhj" target="_blank" rel="noopener">Join our chapter Discord server for live broadcast.</a>
 
-OWASP Delaware Chapter meetings are posted on our MeetUp Page:
-
-Please visit <a href="https://www.meetup.com/OWASP-Delaware-Chapter/" target="_blank" rel="noopener">https://www.meetup.com/OWASP-Delaware-Chapter/</a> to sign up for event announcements and to RSVP for an event.

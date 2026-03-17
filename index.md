@@ -10,18 +10,13 @@ country:  USA
 
 ---
 Welcome to the Delaware chapter homepage. 
-Please follow our chapter here at OWASP.org.
 
-**NEW for 23-Jan-2026: The Meetup.com group is gone!** <br>
-For us as well as most other OWASP chapters because...reasons.
-<br>
-¯\\_(ツ)_/¯
+**The <a href="https://www.meetup.com/owasp-delaware-chapter/" target="_blank">Meetup.com group</a> is back!**<br>
+However, the local chapter leads don't have "organizer" rights on Meetup yet.  Therefore, X, LinkedIn, and Discord will be used to update on meeting details.
 
-<mark>The best way to stay in the loop on upcoming meetings is to <a href="https://discord.gg/EHUznhj" target="_blank" rel="noopener">join our chapter Discord server.</a></mark>
+Our new LinkedIn Group is here: <a href="https://www.linkedin.com/groups/17822058/" target="_blank" rel="noopener">https://www.linkedin.com/groups/17822058/</a>
 
-Until we find a new method of posting meetings and geting RSVP counts, we will post meetings here on this page and on Discord.
-
-Upcoming meetings will be posted further down on this page.  
+Upcoming meetings will be posted on our <a href="https://x.com/owaspde" target="_blank">LinkedIn Group</a>, <a href="https://x.com/owaspde" target="_blank">X/Twitter</a>, and <a href="https://discord.gg/EHUznhj" target="_blank" rel="noopener">our chapter Discord server.</a>.  
 
 # Speakers & Supporters Wanted
 
@@ -49,7 +44,7 @@ The following are the list of organizations who have generously supported our ch
 
 # Next Meeting/Event(s)
 
-Soon...probably Feb 2026.
+March 31, 2026 - see X, LinkedIn Group, and/or Discord for details
 
 # Prior Events
 
